@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-size: 16px;
+}
+h1,h2,h3 {
+    color: #66bfbf;
+    padding: 20px 0;
+
+}
+a{
+    text-decoration: none;
+}
+p{
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+hr{
+    max-width: 200px;
+    margin: 50px auto;
+}
+
+.top-container{
+    background-color: #EAF6F6;
+    margin: 0;
+    padding-top: 50px;
+    position: relative;
+}
+.top-container h1{
+    margin-top: 40px;
+}
+.cloudlft{
+    position: absolute;
+}
+
+.cloudrgt{
+    position: absolute;
+    right: 400px;
+}
+
+.footer-container{
+    background-color: #66BFBF;
+    color: #EAF6F6;
+    padding: 20px 0;
+    line-height: 40px;
+}
+
+.getInTouch{
+    margin: 40px 0;
+}
+
+/* .getInTouch p{
+    padding: 20px 0;
+}
+.getInTouch h2{
+    padding: 20px 0;
+} */
+.mySkills{
+    padding: 10px;
+}
+
+.rightfl{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px 0;
+}
+
+.rightfl p{
+    margin: 0;
+    
+}
+
+.leftfl p{
+    margin: 0;
+    max-width: 680px;
+}
+
+.leftfl{
+    padding: 20px 0;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+}
+.imgLeft{
+    float: left;
+    margin-right:40px;
+}
+
+.img{
+    width: 150px;
+    height: 150px;
+}
+
+.imgRight{
+    clear: both;
+    float: right;
+    margin-left:40px;
+}
+
+.footer-container a{
+    color: #11999E;
+    margin: 30px;
+}
